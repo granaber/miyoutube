@@ -1,0 +1,20 @@
+{
+  "name": "miyotube",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "figlet": "^1.5.2",
+    "inquirer": "^9.0.0",
+    "ora": "^6.1.2",
+    "youtube-mp3-downloader": "^0.7.10"
+  }
+}
